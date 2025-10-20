@@ -1,0 +1,16 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "預留單拋轉",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "ZZ1_CL_RESERVATION_MES"
+  },
+  "parameters": [
+    {
+      "name": "S_DATE"
+    }
+  ]
+}

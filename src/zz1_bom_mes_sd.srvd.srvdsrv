@@ -1,0 +1,4 @@
+@EndUserText.label: 'BOM拋轉MES LOG Service Definition'
+define service ZZ1_BOM_MES_SD {
+  expose ZZ1_PV_BOM_LOG;
+}

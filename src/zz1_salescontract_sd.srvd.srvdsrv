@@ -1,0 +1,4 @@
+@EndUserText.label: '銷售契約未交明細表Service Definition'
+define service ZZ1_SALESCONTRACT_SD {
+  expose ZZ1_I_salescontract2;
+}

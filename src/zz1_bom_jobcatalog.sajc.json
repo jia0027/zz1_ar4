@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "BOM拋轉MES範本",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "ZZ1_CL_BOM_MES"
+  },
+  "parameters": [
+    {
+      "name": "P_ALL"
+    },
+    {
+      "name": "P_DATE"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: '獨立需求上傳'
+define service ZZ1_INDEP_REQ_SD {
+  expose ZZ1_PV_INDEP_REQ;
+}

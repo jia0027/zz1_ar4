@@ -1,0 +1,4 @@
+@EndUserText.label: '付款清單Service Definition'
+define service ZZ1_PAYMENTLIST_FI {
+  expose zz1_pv_paymentlist;
+}
